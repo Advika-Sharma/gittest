@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ram 
+=======
+hell yeah  
+hey there !
+>>>>>>> skit2
 i am advika 
